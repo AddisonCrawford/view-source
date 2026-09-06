@@ -2,49 +2,76 @@
 <html lang="en">
 
 <head>
-  
-<meta charset="utf-8">
+    <meta charset="UTF-8">
 
-<title>Information should be free</title>
+    <title>The Awareness of Criticism</title>
 
-<style> 
-  body {
-    font-family: Helvetica, Arial, sans-serif;
-    background-color: grey;
-    color: black;
-    margin: 140px;
-  }
+    <style>
+        body {
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            background-color:cornsilk;
+            color:cornflowerblue:darkred;
+            margin: 40px;
+            text-align: left;
+        }
 
-  div {
-    font-size: 140px;
-    font-weight: extra-bold;
-    margin-top: 50px;
-    margin-bottom: 30px;
-  }
+        div {
+            font-size: 180px;
+            font-weight:bolder;
+            color:cornflowerblue;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            display:flex;
+            flex-direction: row;
+            text-align: left;
 
-  h1 {
-    font-size: 240px;
-    letter-spacing: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
+        }
 
-  .offset {
-    margin-left: 180px;
-    transform: rotate(-4deg);
-  }
+        div2 {
+            font-size: 180px;
+            font-weight: bold;
+            color:crimson;
+            margin: 40px;
+            text-align: left;
 
-  h1 span {
-    display: inline-block;
-    transform: rotate(12deg);
-  }
+        }
 
-</style>
-</head>
 
-<body>
-<h1> GLASS </h1>
-<div> only </div>
-<h1> SHATTERS </h1>
-<div> from bad </div>
-<h1> INTENTIONS </h1>
+        h1 span {
+            display:flex;
+            flex-direction: row;
+            transform: rotate(12deg);
+            font-size: 180px;
+            margin: 15px;
+            text-align: left;
+        }
+
+        h2 span {
+            display:flex;
+            flex-direction: row;
+            transform: rotate(12deg);
+            font-size: 250px;
+            margin: 15px;
+            text-align: left;
+        }
+
+        </style>
+        </head>
+
+        <body>
+
+            <div2>GLASS</div2>
+
+            <h1>only</h1>
+
+            <h2>
+                <div>S<div><span>H</span><div>A</div><span style="transform: rotate(15deg)"</span>T<span style="transform: rotate<-10deg);">T</span><div>E</div><span style="transform: rotate(15deg);">R</span><div>S</div>
+            </h2>
+
+            <h1>from bad</h1>
+
+            <div2>INTENTIONS</div2>
+
+            <h1>
+            <p> We are all trying to improve based on feedback. Yet sometimes that very reason others quit. Criticism can be insulting if you do not take in to account emotion; especially when many artists in today's world are bashed and dismissed on social media and the web. Whether you are anonymous or not, criticizing a creator on the web can hurt them. It's been shown many times through history that this has been the primary reason for failed dreams and pain. If you take a second to think about their emotions and their effort before messaging, <div>it can change EVERTHING.</div></p>
+            </h1>
